@@ -7,7 +7,7 @@ public class permutationandCombination {
         f=f*i;
       }
       return f;
-    }
+  }
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter the value of n: ");
